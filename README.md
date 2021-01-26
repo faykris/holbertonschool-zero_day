@@ -1,1 +1,1 @@
-This project is oriented to Emacs
+This project is oriented to Emacs commands
