@@ -1,2 +1,2 @@
-This file contain Emacs commands
+** This file is mandatory in all Holberton School projects **
 
