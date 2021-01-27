@@ -1,1 +1,1 @@
-This folder contains Git files
+This folder contains Git files - modified for pull
